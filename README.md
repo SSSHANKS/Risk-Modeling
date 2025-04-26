@@ -33,7 +33,7 @@ The process involves:
 │   └── WebScraping_studio.ipynb
 ├── Coordianetes.ipynb
 ├── real_estate_prediction.ipynb
-├── raport_rep_project.html
+├── report_rep_project.html
 ├── LICENSE
 └── README.md
 ```
@@ -96,7 +96,7 @@ The core machine learning steps are contained in `real_estate_prediction.ipynb`:
 ## 📑 Check the Report
 
 A detailed description of the data processing, modeling, evaluation metrics, and visualizations can be found in the final report:  
-👉 **[`raport_rep_project.html`](./raport_rep_project.html)**
+👉 **[`report_rep_project.html`](./report_rep_project.html)**
 
 ---
 
@@ -126,7 +126,7 @@ A detailed description of the data processing, modeling, evaluation metrics, and
    - `Coordianetes.ipynb` to attach coordinates.
    - `real_estate_prediction.ipynb` to train and evaluate models.
 
-4. Review the final results in `raport_rep_project.html`.
+4. Review the final results in `report_rep_project.html`.
 
 ---
 
